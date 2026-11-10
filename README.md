@@ -66,5 +66,5 @@ We may update this Privacy Policy from time to time to reflect functional or reg
 If you have questions regarding this Privacy Policy or data handling in Stay Ledger, contact:
 
 - **Developer:** Sukesh Acharya
-- **Email:** sukeshdev.online@gmail.com
+- **Email:** mrxgroot.dev@gmail.com
 - **Repository:** [https://github.com/MrXgroot/privacy-policies](https://github.com/MrXgroot/privacy-policies)
